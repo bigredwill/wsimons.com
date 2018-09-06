@@ -4,7 +4,9 @@ title: Website Refresh
 date: 2018-09-01T15:04:10.000Z
 excerpt: A new website for new things. Also how I became a web developer.
 tags:
-  - React - update - life
+  - React
+  - update 
+  - life
 ---
 
 ## A new website for new things. And why build a new site?
