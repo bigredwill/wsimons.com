@@ -17,13 +17,13 @@ const routes = [
   },
 ]
 
-const linkStyles = 'link dim green f4 f5-m f4-l dib mr3'
+const linkStyles = 'link dim green f5 f4-m f4-l dib mr3'
 // function to determine if link is active or deeper routes
 const isPartiallyActive = ({ isPartiallyCurrent, location, href }) => {
   // debugger;
   return (isPartiallyCurrent && href !== '/') ||
     (href === '/' && location.pathname === '/')
-    ? { className: `${linkStyles} b` }
+    ? { className: `${linkStyles} b ul` }
     : null
 }
 
@@ -33,7 +33,8 @@ const isPartiallyActive = ({ isPartiallyCurrent, location, href }) => {
 
 const NavRoutes = ({ activeRoute }) => {
   return (
-    <nav className="pb3 sans-serif">
+    <nav className="dt w-100 pb3 pt3 sans-serif">
+      <div className="dtc v-mid"/>
       {routes.map(obj => {
         return (
           <Link
@@ -47,22 +48,7 @@ const NavRoutes = ({ activeRoute }) => {
           </Link>
         )
       })}
-      <div className="dim gray f4 f5-m f4-l dib ml3 fr">Will Simons</div>
-      <a
-        className="dim gray f4 f5-m f4-l dib ml3 fr"
-        style={{
-          height: '1.3rem',
-        }}
-        href={'https://github.com/bigredwill'}
-      >
-        <img
-          alt="Github Icon and Link"
-          style={{
-            height: '100%',
-          }}
-          src={githubIcon}
-        />
-      </a>
+      <div className="dim gray f5 f4-m f4-l dtc v-mid tr">Will Simons</div>
     </nav>
   )
 }

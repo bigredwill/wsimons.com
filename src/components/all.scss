@@ -14,6 +14,8 @@ p {
 
 a {
   @extend .link, .underline-hover;
+  // link color
+  color: #FF4C5B;
 }
 
 p > code {
@@ -34,6 +36,7 @@ pre {
   overflow: scroll;
 }
 
+// Header color
 .green-blue {
   color: #00B3A4;
 }
