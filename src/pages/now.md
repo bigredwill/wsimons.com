@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: This is a log of what I've been up to
+title: Now
 ---
 # Now
 
@@ -8,4 +8,4 @@ title: This is a log of what I've been up to
 
 * Practicing being present. Being in the now.
 * Immersing myself in code. Working my way back to software engineering after a gap year of exploration.
-* Moved to Seattle, looking for a full time gig. **Are you Hiring? Contact me!**
+* Moved to Seattle, looking for a full time gig. **Are you Hiring? Contact me!

@@ -9,9 +9,9 @@ export const AboutPageTemplate = ({ content, contentComponent }) => {
   const PageContent = contentComponent || Content
 
   return (
-    <section className="section section--gradient">
+    <article className="lh-copy">
       <PageContent className="content" content={content} />
-    </section>
+    </article>
   )
 }
 
@@ -25,7 +25,7 @@ const AboutPage = ({ data }) => {
 
   return (
     <Layout>
-      <Helmet title="Will Simons | Now" />
+      <Helmet title={`Will Simons | ${post.frontmatter.title}`} />
       <AboutPageTemplate contentComponent={HTMLContent} content={post.html} />
     </Layout>
   )
@@ -41,6 +41,9 @@ export const aboutPageQuery = graphql`
   query AboutPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       html
+      frontmatter {
+        title
+      }
     }
   }
 `

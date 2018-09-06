@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: Will Simons
+title: Home
 ---
 # Hi! I'm a web developer and programming generalist, among other things.
 

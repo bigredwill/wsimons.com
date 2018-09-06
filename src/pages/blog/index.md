@@ -4,5 +4,7 @@ path: /blog
 title: Writing
 ---
 
-## Writing about projects and concepts.
+# Writing
+
+Concepts and projects and life
 

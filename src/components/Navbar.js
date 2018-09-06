@@ -17,7 +17,7 @@ const routes = [
   },
 ]
 
-const linkStyles = 'link dim green f5 f4-m f4-l dib mr3'
+const linkStyles = 'link dim green f5 f4-m f4-l dib mr3-ns mr2'
 // function to determine if link is active or deeper routes
 const isPartiallyActive = ({ isPartiallyCurrent, location, href }) => {
   // debugger;
@@ -48,7 +48,7 @@ const NavRoutes = ({ activeRoute }) => {
           </Link>
         )
       })}
-      <div className="dim gray f5 f4-m f4-l dtc v-mid tr">Will Simons</div>
+      <div className="dim tracked gray f5 f4-m f4-l dtc v-mid tr">Will Simons</div>
     </nav>
   )
 }

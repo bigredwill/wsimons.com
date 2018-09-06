@@ -12,30 +12,31 @@ export const BlogPostTemplate = ({
   excerpt,
   tags,
   title,
+  date,
 }) => {
   const PostContent = contentComponent || Content
   return (
-    <section className="section">
-      <div className="container content">
-        <div className="columns">
-          <div className="column is-10 is-offset-1">
-            <PostContent content={content} />
-            {tags && tags.length ? (
-              <div style={{ marginTop: `4rem` }}>
-                <h4>Tags</h4>
-                <ul className="taglist">
-                  {tags.map(tag => (
-                    <li key={tag + `tag`}>
-                      <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            ) : null}
+    <article className="cf ph3 ph0-l pv5">
+      <header className="fn fl-l w-50-l pr4-l">
+        <h1 class="mb3 mt0 lh-title">{title}</h1>
+        <time class="f6 ttu tracked gray">{date}</time>
+        {tags && tags.length ? (
+          <div>
+            <h4>Tags</h4>
+            <ul className="taglist">
+              {tags.map(tag => (
+                <li key={tag + `tag`}>
+                  <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
+                </li>
+              ))}
+            </ul>
           </div>
-        </div>
+        ) : null}
+      </header>
+      <div class="fn fl-l w-50-l">
+        <PostContent className="lh-copy measure" content={content} />
       </div>
-    </section>
+    </article>
   )
 }
 
@@ -59,6 +60,7 @@ const BlogPost = ({ data }) => {
         excerpt={post.frontmatter.excerpt}
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
+        date={post.frontmatter.date}
       />
     </Layout>
   )

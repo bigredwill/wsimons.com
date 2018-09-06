@@ -15,7 +15,7 @@ export default class BlogPage extends React.Component {
     return (
       <Layout>
         <Helmet title={`Will Simons | ${title}`} />
-        <HTMLContent className="content" content={html} />
+        <HTMLContent className="lh-copy measure" content={html} />
         {posts.map(({ node: post }) => (
           <PostListItem key={post.id} post={post} />
         ))}
