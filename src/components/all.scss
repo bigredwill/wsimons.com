@@ -1,0 +1,39 @@
+@import "tachyons-sass/tachyons.scss";
+
+h1, h2, h3, h4, h5, h6 {
+  @extend .sans-serif, .mid-gray, .mt4, .mb3, .lh-title;
+}
+
+p {
+  @extend .sans-serif;
+}
+
+.highlight {
+  @extend .br2, .pa3, .highlight;
+}
+
+a {
+  @extend .link, .underline-hover;
+}
+
+p > code {
+  @extend .br2, .pa1;
+  background-color: #eee;
+  font-size: 12px;
+}
+
+code {
+  font-size: 14px;
+}
+
+pre {
+  @extend .mv0;
+}
+
+.highlight {
+  overflow: scroll;
+}
+
+.green-blue {
+  color: #00B3A4;
+}
