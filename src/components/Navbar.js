@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
+import githubIcon from '../img/github-icon.svg'
 
 const routes = [
   {
@@ -46,6 +47,22 @@ const NavRoutes = ({ activeRoute }) => {
           </Link>
         )
       })}
+      <div className="dim gray f4 f5-m f4-l dib ml3 fr">Will Simons</div>
+      <a
+        className="dim gray f4 f5-m f4-l dib ml3 fr"
+        style={{
+          height: '1.3rem',
+        }}
+        href={'https://github.com/bigredwill'}
+      >
+        <img
+          alt="Github Icon and Link"
+          style={{
+            height: '100%',
+          }}
+          src={githubIcon}
+        />
+      </a>
     </nav>
   )
 }
