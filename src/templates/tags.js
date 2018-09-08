@@ -8,8 +8,8 @@ class TagRoute extends React.Component {
   render() {
     const posts = this.props.data.allMarkdownRemark.edges
     const postLinks = posts.map(post => (
-      <article>
-        <li className="ph0 dib"key={post.node.fields.slug}>
+      <article key={post.node.fields.slug}  >
+        <li className="ph0 dib">
           <PostListItem post={post.node} />
         </li>
       </article>
@@ -19,15 +19,15 @@ class TagRoute extends React.Component {
     const totalCount = this.props.data.allMarkdownRemark.totalCount
     const tagHeader = `${totalCount} post${
       totalCount === 1 ? '' : 's'
-    } tagged with “${tag}”`
+    } tagged with #${tag}`
 
     return (
       <Layout>
-        <section>
+        <section className="measure-wide center lh-copy">
           <Helmet title={`${title} | ${tag}`} />
-          <article className="list f6 ph0 mt3 mb0 mw6">
+          <article className="list f6 ph0 mt3 mb0">
             <h1 className="f3">{tagHeader}</h1>
-            <ul className="taglist">{postLinks}</ul>
+            <ul className="taglist ph0">{postLinks}</ul>
             <Link to="/tags/">Browse all tags</Link>
           </article>
         </section>
@@ -57,6 +57,7 @@ export const tagPageQuery = graphql`
             slug
           }
           frontmatter {
+            tags
             title
             excerpt
             date(formatString: "MMMM DD, YYYY")

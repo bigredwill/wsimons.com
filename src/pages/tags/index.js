@@ -13,7 +13,7 @@ const TagsPage = ({
   },
 }) => (
   <Layout>
-    <article>
+    <article className="measure-wide center">
       <Helmet title={`Tags | ${title}`} />
       <div>
         <h1 className="f3 v-mid mr3">Tags</h1>

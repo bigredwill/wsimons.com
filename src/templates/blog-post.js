@@ -16,25 +16,24 @@ export const BlogPostTemplate = ({
 }) => {
   const PostContent = contentComponent || Content
   return (
-    <article className="cf ph3 ph0-l pv5">
-      <header className="fn fl-l w-50-l pr4-l">
-        <h1 class="mb3 mt0 lh-title">{title}</h1>
-        <time class="f6 ttu tracked gray">{date}</time>
+    <article className="cf pv3 ph0-l ">
+      <header className="fn pr4-l center measure-wide">
+        <h1 className="f1 mb3 mt0">{title}</h1>
+        <time className="f6 ttu tracked gray">{date}</time>
         {tags && tags.length ? (
           <div>
-            <h4>Tags</h4>
-            <ul className="taglist">
+            <ul className="dib-ns list pl0">
               {tags.map(tag => (
-                <li key={tag + `tag`}>
-                  <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
+                <li className="dib mr2" key={tag + `tag`}>
+                  <Link to={`/tags/${kebabCase(tag)}/`}>#{tag}</Link>
                 </li>
               ))}
             </ul>
           </div>
         ) : null}
       </header>
-      <div class="fn fl-l w-50-l">
-        <PostContent className="lh-copy measure" content={content} />
+      <div className="fn">
+        <PostContent className="lh-copy measure-wide center" content={content} />
       </div>
     </article>
   )

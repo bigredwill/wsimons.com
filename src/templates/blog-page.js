@@ -15,10 +15,12 @@ export default class BlogPage extends React.Component {
     return (
       <Layout>
         <Helmet title={`Will Simons | ${title}`} />
-        <HTMLContent className="lh-copy measure" content={html} />
-        {posts.map(({ node: post }) => (
-          <PostListItem key={post.id} post={post} />
-        ))}
+        <div className="measure-wide center">
+          <HTMLContent className="lh-copy" content={html} />
+          {posts.map(({ node: post }) => (
+            <PostListItem key={post.id} post={post} />
+          ))}
+        </div>
       </Layout>
     )
   }
@@ -52,6 +54,7 @@ export const pageQuery = graphql`
           }
           frontmatter {
             title
+            tags
             excerpt
             templateKey
             date(formatString: "MMMM DD, YYYY")

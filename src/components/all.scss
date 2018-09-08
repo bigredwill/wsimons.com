@@ -1,7 +1,7 @@
 @import "tachyons-sass/tachyons.scss";
 
 h1, h2, h3, h4, h5, h6 {
-  @extend .sans-serif, .mid-gray, .mt4, .mb3, .lh-title;
+  @extend .sans-serif, .mid-gray, .lh-title;
 }
 
 html {
