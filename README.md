@@ -1,4 +1,4 @@
-# Gatsby + Netlify CMS Starter
+# Gatsby + Netlify CMS 
 
 ### Space JAM Stack
 
