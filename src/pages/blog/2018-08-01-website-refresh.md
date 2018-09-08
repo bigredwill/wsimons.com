@@ -21,7 +21,7 @@ The code for this site lives at <https://github.com/bigredwill/wsimons.com>
 
 I now consider myself a Software Engineer who specializes in the web. This direction in my career started from building and rebuilding a personal site, never satisfied with the editing workflow and process. It evolved into a deeper understanding of the web platform, and became domain knowledge that brings value to my work.
 
-Rewind to my senior year of high school when I was learning to code. I had no idea **how** code could make a website appear in my browser. Thus I set out to learn and went down a long path to where I am today.
+Rewind to my senior year of high school. I had no idea **how** code could make a website appear in my browser. Thus I set out to learn and went down a long path to where I am today.
 
 At first I built a few html pages with basic css by following a tutorial online. It was crude and pretty ugly. I uploaded the pages manually to shared-hosting server with ftp. It was tedious to do this, so I learned to automate the process with a bash script.  This manual process worked just fine, though mistakes were common and I was serving a lot of 404s. 
 
