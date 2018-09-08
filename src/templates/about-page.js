@@ -9,7 +9,7 @@ export const AboutPageTemplate = ({ content, contentComponent }) => {
   const PageContent = contentComponent || Content
 
   return (
-    <article className="lh-copy">
+    <article className="lh-copy measure-wide center">
       <PageContent className="content" content={content} />
     </article>
   )
