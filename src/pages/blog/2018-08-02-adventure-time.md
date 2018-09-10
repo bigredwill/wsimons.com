@@ -53,4 +53,12 @@ Intuition and cold weather told me the next stop was Bali, Indonesia.
 
 ## Eat, Pray, Love (Eat, Skate, Beach)
 
-After the initial culture shock, I fell in love with the island and it's people.
+The culture shock of being in Asia for the first time wore off quickly.  The people of Bali were friendly and fun. Time moved slower. Everything ran on island time.
+
+I skateboarded more in Bali than anywhere else in my travels. A pleasant surprise to me, Bali is home to a burgeoning skate scene. Given the island's history of being a surf mecca, it only made sense that skateboarding would follow.  
+
+Making friends was easy because I carried my skateboard with me. The hospitality and stoke that the locals had was next to none. I was housed for a week when I had no accommodation planned (thanks Indra and Sophie!). I felt love and passion, and want to contribute back to the island one day.
+
+A month flew by.  Before I knew it, my visa ran out.  So I hopped on a cheap flight to Singapore and ate for a week.
+
+## Singapore
