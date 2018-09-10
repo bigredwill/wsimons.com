@@ -7,6 +7,8 @@ tags:
   - update
   - life
 ---
+![Essentials for backpacking: sea salt and vinegar chips, sriracha, water, and a set of wheels.](/img/img_20180424_092521227.jpg)
+
 This post marks the end of a year of stepping outside of my comfort zone. One year ago today, I left a software engineering job in search of experiences outside of the digital realm.
 
 ## A Fresh Start
