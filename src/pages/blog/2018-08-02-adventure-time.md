@@ -11,7 +11,9 @@ This post marks the end of a year of stepping outside of my comfort zone. One ye
 
 ## A Fresh Start
 
-I spent four years at university studying Computer Science and stressed out after graduation to find a job and start my career. I found a job quickly where I was learning, had great mentors, and was happy. I became a contributing member of the web-team quickly, and took on more responsibility with decision making and direction. They even had me conducting interviews and presenting to the whole company weekly. I felt confident in my coding abilities, and felt satisfied in the progress towards my goal of becoming the go-to Javascript and web person. But, something bothered me. I was ignoring my dream of travel.
+I spent four years at university studying Computer Science. After graduation, I stressed out about finding a job and starting my career. That said, I found a job quickly, one where I was learning, had great mentors, and was happy. I became a contributing member of the team quickly, and took on more responsibility with decision making and direction. I conducted interviews and presented to the whole company weekly. I felt confident in my coding abilities, and felt satisfied in the progress towards my professional goals.
+
+But, something bothered me. I was ignoring my dream of travel.
 
 So I made a plan to travel the world. I wanted to leave it open ended and craved an adventure. I did some bookkeeping and decided I had enough for a year of budget travel. I gave notice, wrapped up my ongoing work, and bid goodbye to my coworkers.
 
