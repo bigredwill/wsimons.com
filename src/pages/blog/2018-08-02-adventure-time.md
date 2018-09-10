@@ -7,7 +7,7 @@ tags:
   - update
   - life
 ---
-This post marks the end of a year of stepping outside of my comfort zone. One year ago today, I left a software engineering job in search of experiences outside of the digital realm.
+This post marks the end of a year of stepping outside of my comfort zone. One year ago today, I left a software engineering job in search of experiences outside of the digital realm. asdf
 
 ## A Fresh Start
 
