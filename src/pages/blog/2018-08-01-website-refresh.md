@@ -4,7 +4,9 @@ title: Website Refresh
 date: 2018-09-01T15:04:10.000Z
 excerpt: Netlify CMS literally made my dreams come true.
 tags:
-  - React
+  - jamstack
+  - gatsby
+  - react
   - update
   - life
 ---
