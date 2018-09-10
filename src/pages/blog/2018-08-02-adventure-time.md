@@ -39,7 +39,7 @@ I stayed in hostels, with WWOOF hosts, and camped beneath the stars.  I travelle
 
 Hitchhiking is a viable means of transportation on the South island. The tourists and people of New Zealand are a friendly bunch. I rode in a car with a family from Nebraska, a local adrenaline junky, and a guy from Oregon. Have thumb, will travel.
 
-The Nevis bungy jump beckoned, a New Zealand invention. At 134 meters, it is the tallest the country. The adrenaline rush was like no other, I'd definitely do it again.
+The Nevis bungy jump beckoned, a New Zealand invention. At 134 meters, it is the tallest the country. It was well worth the price of admission.
 
 ## Surfers' Paradise
 
@@ -47,8 +47,10 @@ Adventure called in Australia. I hopped the Tasman sea where I joined a friend a
 
 At a yoga retreat in the hills of New South Wales I deepened my practice of mindfulness and compassion. Through the teachers and community I learned to trust my intuition.
 
+![A Wallabee sighting.](/img/img_20180515_073613624.jpg)
+
 Intuition and cold weather told me the next stop was Bali, Indonesia.
 
-## Eat, Love, Pray (Eat, Skate, Love)
+## Eat, Pray, Love (Eat, Skate, Beach)
 
 After the initial culture shock, I fell in love with the island and it's people.
