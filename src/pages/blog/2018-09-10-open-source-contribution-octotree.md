@@ -7,4 +7,10 @@ tags:
   - open source
   - javascript
 ---
-<https://github.com/buunguyen/octotree/pull/428>
+A coworker introduced me to the chrome plugin, Octotree. It provides a tree view for any repository you're viewing on Github to quickly navigate between files. A few people had submitted issues requesting a filtered tree view for pull requests to only show files that are being changed. I wanted it as well and got to work.
+
+The first thing was familiarizing myself with the codebase.
+
+
+
+See [pull #428](https://github.com/buunguyen/octotree/pull/428).
