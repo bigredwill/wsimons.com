@@ -21,6 +21,8 @@ So I made a plan to travel the world and purposefully left it open ended. I did 
 
 On the open road I learned to keep calm through multiple breakdowns. In a VW van I set out on and epic and slow road trip of the Pacific North West. I learned that smacking the fuel pump is an acceptable way of clearing any blockage. I became an amateur mechanic by necessity, but fell in love with getting greasy. Troubleshooting and fixing bugs in a car are so satisfying.
 
+![](/img/img_6495.jpg)
+
 I [WWOOFed](http://wwoof.net/) in Oregon on my way south, where I learned to press cider and got dirty. I explored Oregon for a few weeks with a friend I made on the farm. We found hot springs, mountains, and more than a few skateparks.
 
 ## Trekking Middle Earth
@@ -31,14 +33,13 @@ Serendipity lead me to the Southern Island of New Zealand. I traveled with only 
 
 I stayed in hostels, with WWOOF hosts, and camped beneath the stars.  I travelled alone and with others. Intuition was my guide.
 
+![]()
+
 Hitchhiking is a viable means of transportation on the South island. The tourists and people of New Zealand are a friendly bunch. I rode in a car with a family from Nebraska, a local adrenaline junky, and a guy from Oregon. Have thumb, will travel.
-
-
 
 The bungy jump called, a New Zealand invention. I chose the Nevis bungy. At 134 meters, it is the tallest the country. I'd definitely do it again, and highly recommend it.
 
-## Surfers' Paradise 
-
+## Surfers' Paradise
 
 Adventure called in Australia. I hopped the Tasman sea where I joined a friend and we surfed our way South from the Gold Coast to Melbourne. I learned to live like an ozzy, surfing and eating vegemite.
 
