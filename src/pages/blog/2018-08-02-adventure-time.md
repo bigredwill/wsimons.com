@@ -9,6 +9,8 @@ tags:
 ---
 This post marks the end of a year of stepping outside of my comfort zone. I travelled across the world to learn how others live and to use intuition to discover. One year ago today, I left an office in search of experiences outside of the digital realm.
 
+![#vanlife](/img/img_6619.jpg)
+
 ## A Fresh Start
 
 I spent four years at university studying Computer Science. After graduation, I stressed out about finding a job and starting my career. That said, I found a job quickly, one where I was learning, had great mentors, and was happy. I became a contributing member of the team quickly, and took on more responsibility with decision making and direction. I conducted interviews and presented to the whole company weekly. I felt confident in my coding abilities, and felt satisfied in the progress towards my professional goals.
@@ -37,7 +39,7 @@ I stayed in hostels, with WWOOF hosts, and camped beneath the stars.  I travelle
 
 Hitchhiking is a viable means of transportation on the South island. The tourists and people of New Zealand are a friendly bunch. I rode in a car with a family from Nebraska, a local adrenaline junky, and a guy from Oregon. Have thumb, will travel.
 
-The bungy jump called, a New Zealand invention. I chose the Nevis bungy. At 134 meters, it is the tallest the country. I'd definitely do it again, and highly recommend it.
+The Nevis bungy jump beckoned, a New Zealand invention. At 134 meters, it is the tallest the country. The adrenaline rush was like no other, I'd definitely do it again.
 
 ## Surfers' Paradise
 
