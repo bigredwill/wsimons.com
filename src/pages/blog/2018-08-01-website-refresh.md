@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Website Refresh
 date: 2018-09-01T15:04:10.000Z
-excerpt: A new website for new things. Also how I became a web developer.
+excerpt: Netlify CMS literally made my dreams come true.
 tags:
   - React
   - update
@@ -17,12 +17,17 @@ tags:
 
 The code for this site lives at <https://github.com/bigredwill/wsimons.com>
 
----
+- - -
+### The Stack
 
-I now consider myself a Software Engineer who specializes in the web. This direction in my career started from building and rebuilding a personal site, never satisfied with the editing workflow and process. It evolved into a deeper understanding of the web platform, and became domain knowledge that brings value to my work.
+Github Pages and Jekyll served me well for many years. Yet, I dreamt (literally dreamt) of a serverless CMS solution that utilized a git repository as a database. I even began experimenting with it myself. Little did I know that this would soon be reality.
 
-Rewind to my senior year of high school. I had no idea **how** code could make a website appear in my browser. Thus I set out to learn and went down a long path to where I am today.
+During my travels I brainstormed about the next iteration of my personal site would be.  I wanted a CMS system, but didn't want to manage a server. I liked writing with markdown, and liked the component-based approach to UI of React. Enter the [JAM Stack](https://jamstack.org/).
 
-At first I built a few html pages with basic css by following a tutorial online. It was crude and pretty ugly. I uploaded the pages manually to shared-hosting server with ftp. It was tedious to do this, so I learned to automate the process with a bash script.  This manual process worked just fine, though mistakes were common and I was serving a lot of 404s. 
+[Gatsby](https://www.gatsbyjs.org/), with React as the 'templating' system, allows me to quickly iterate upon the site. I went from zero to what you see now in a few afternoons. 
 
-Then I discovered Github and Github Pages, and my workflow became more efficient.  I could make changes and  have them appear magically online! That feeling of magic fed the fire that lead me to pursue front-end engineering as a career.
+[Netlify](https://www.netlify.com/) acts a CDN and allows me to deploy development branches and to production at the push of a git commit.  
+
+[NetlifyCMS](https://www.netlifycms.org/) literally made my dreams come true! It makes editing pages easy from anywhere you have access to a computer. The configuration is simple and the UI is great. The ability to use your git repo as a CMS database was something I dreamed (literally dreamed) about a year ago.  It has a few bugs as it's still under active development, but the major functionality is there.
+
+I chose [Tachyons](http://tachyons.io/) because it's dead simple. I like that I can use as much or as little as I want.  Bonus points because of the low specificity of selectors, dead simple typography, and intuitive class names. The documentation is pretty great too.
