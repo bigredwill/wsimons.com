@@ -4,8 +4,9 @@ title: Adventure Time
 date: 2018-09-02T15:04:10.000Z
 excerpt: 'A gap year, an adventure, and hard reset.'
 tags:
-  - update
+  - travel
   - life
+  - fun
 ---
 This post marks the end of a year of stepping outside of my comfort zone. I travelled across the world to learn how others live and to use intuition to discover. One year ago today, I left an office in search of experiences outside of the digital realm.
 
@@ -61,4 +62,24 @@ Making friends was easy because I carried my skateboard with me. The hospitality
 
 A month flew by.  Before I knew it, my visa ran out.  So I hopped on a cheap flight to Singapore and ate for a week.
 
-## Singapore
+## City of the Future and Chicken Rice
+
+Going from the developing country of Indonesia to the futuristic city-state of Singapore was another culture shock. I didn't know much about Singapore before arriving other than one of the national languages is English and the street food is amazing. 
+
+The melting pot of Malay, Indian, Chinese, and others made for an amazing array of architecture, food, and people. There are giant skyscrapers bordering neighborhoods of British style buildings, all with food courts beneath them. You could get authentic Chinese, Malaysian, or Indian food all in the same food court, and order in English!
+
+I stumbled upon the Singapore Art Book Fair because of an Instagram post from one of my favorite artists, [Mister Tucks](https://www.instagram.com/templeofskate/). I was lucky enough to meet him and talk about skateboarding and art in Singapore. There were so many people exhibiting small-release zines, books, and art. I met the founder of the magazine [Musotrees](http://www.musotrees.com/), a beautiful magazine about travel and destinations, who validated my decision to travel and added Malaysia to my list of places-to-go.
+
+After a week in the lion city I made my way to Japan.
+
+## Coming Together in Japan
+
+When I arrived in Osaka, I felt at ease. I was used to stepping in to the unknown, at ease with being out of my element. Wandering the streets, I felt so much joy to be right where I was. After 4 months of traveling overseas, I had made it to my final destination. I had made my dream of travel a reality.
+
+> I realize now that the reality of things is not something you convey to people but something you make. It is this that gives birth to meaning.
+>
+> \- Haruki Murakami, The Elephant Vanishes
+
+Ramen, curry rice, omelette rice, katsu, soba, tempura, onigiri, sushi, hotdogs, burgers, coffee, beer. I connected with strangers over food and drink, a common language that doesn't require much talking at all to convey meaning.
+
+Serendipity lead me to meet the 啜 (susuri, aka slurp) crew, who loves skateboarding, ramen, and family. They invited me to a barbecue, we swam in the Kamo river in Kyoto, and visited a DIY skatepark in the hills of Namba.
