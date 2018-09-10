@@ -1,6 +1,8 @@
 const _ = require('lodash')
 const path = require('path')
 const { createFilePath } = require('gatsby-source-filesystem')
+// required by gatsby-remark-relative-images to work with gatsby v2
+require('babel-polyfill')
 
 exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions

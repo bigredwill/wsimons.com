@@ -1,6 +1,5 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import githubIcon from '../img/github-icon.svg'
 
 const routes = [
   {
