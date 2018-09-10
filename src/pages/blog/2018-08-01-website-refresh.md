@@ -20,9 +20,9 @@ The code for this site lives at <https://github.com/bigredwill/wsimons.com>
 - - -
 ### The Stack
 
-Github Pages and Jekyll served me well for many years. Yet, I dreamt (literally dreamt) of a serverless CMS solution that utilized a git repository as a database. Little did I know that this would soon become a thing.
+Github Pages and Jekyll served me well for many years. Yet, I dreamt (literally dreamt) of a serverless CMS solution that utilized a git repository as a database. I even began experimenting with it myself. Little did I know that this would soon be reality.
 
-During my travels I wondered what the next iteration of my personal site would be.  I wanted a CMS system, but didn't want to manage a server. I liked writing with markdown, and liked the component-based approach to UI of React. Enter the [JAM Stack](https://jamstack.org/).
+During my travels I brainstormed about the next iteration of my personal site would be.  I wanted a CMS system, but didn't want to manage a server. I liked writing with markdown, and liked the component-based approach to UI of React. Enter the [JAM Stack](https://jamstack.org/).
 
 [Gatsby](https://www.gatsbyjs.org/), with React as the 'templating' system, allows me to quickly iterate upon the site. I went from zero to what you see now in a few afternoons. 
 
