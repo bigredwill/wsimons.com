@@ -31,11 +31,20 @@ Serendipity lead me to the Southern Island of New Zealand. I traveled with only 
 
 I stayed in hostels, with WWOOF hosts, and camped beneath the stars.  I travelled alone and with others. Intuition was my guide.
 
-Hitchhiking was a viable means of transportation on the south island. The tourists and people of New Zealand are so friendly. I rode in a car with a family from Nebraska, a local adrenaline junky, and a guy from Oregon. Have thumb, will travel. 
+Hitchhiking is a viable means of transportation on the South island. The tourists and people of New Zealand are a friendly bunch. I rode in a car with a family from Nebraska, a local adrenaline junky, and a guy from Oregon. Have thumb, will travel.
+
+
+
+The bungy jump called, a New Zealand invention. I chose the Nevis bungy. At 134 meters, it is the tallest the country. I'd definitely do it again, and highly recommend it.
 
 ## Surfers' Paradise 
 
-Adventure called in Australia. I hopped the Tasman sea where I joined a friend and we surfed our way South from the Gold Coast to Melbourne. At a yoga retreat in the hills of New South Wales I deepened my practice of mindfulness and compassion. Through the teachers and community I learned to trust my intuition. My heart filled with love and open to new experience, I left to Bali, Indonesia. 
+
+Adventure called in Australia. I hopped the Tasman sea where I joined a friend and we surfed our way South from the Gold Coast to Melbourne. I learned to live like an ozzy, surfing and eating vegemite.
+
+At a yoga retreat in the hills of New South Wales I deepened my practice of mindfulness and compassion. Through the teachers and community I learned to trust my intuition.
+
+Intuition and cold weather told me the next stop was Bali, Indonesia.
 
 ## Eat, Love, Pray (Eat, Skate, Love)
 
