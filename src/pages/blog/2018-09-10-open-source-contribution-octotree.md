@@ -14,3 +14,5 @@ The change was major and took a little back and forth, but I'm happy with the co
 It was fun diving in to Github's API and learning about a different Javascript architecture than I was used to. 
 
 See the full pull request on Github at [pull #428](https://github.com/buunguyen/octotree/pull/428).
+
+![Image of the filtered pull request file tree.](/img/pull_requests.png)
