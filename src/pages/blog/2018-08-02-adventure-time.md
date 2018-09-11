@@ -42,23 +42,27 @@ Hitchhiking is a viable means of transportation on the South island. The tourist
 
 The Nevis bungy jump beckoned, a New Zealand invention. At 134 meters, it is the tallest the country. It was well worth the price of admission.
 
+During this time I freelanced for a client doing React and Javascript work. It was around 15 hours a week and helped fund my trip.
+
 ## Surfers' Paradise
 
 Adventure called in Australia. I hopped the Tasman sea where I joined a friend and we surfed our way South from the Gold Coast to Melbourne. I learned to live like an ozzy, surfing and eating vegemite.
 
 At a yoga retreat in the hills of New South Wales I deepened my practice of mindfulness and compassion. Through the teachers and community I learned to trust my intuition.
 
-![A Wallabee sighting.](/img/img_20180515_073613624.jpg)
-
 Intuition and cold weather told me the next stop was Bali, Indonesia.
+
+![A Wallabee sighting.](/img/img_20180515_073613624.jpg)
 
 ## Eat, Pray, Love (Eat, Skate, Beach)
 
 The culture shock of being in Asia for the first time wore off quickly.  The people of Bali were friendly and fun. Time moved slower. Everything ran on island time.
 
-I skateboarded more in Bali than anywhere else in my travels. A pleasant surprise to me, Bali is home to a burgeoning skate scene. Given the island's history of being a surf mecca, it only made sense that skateboarding would follow.  
 
-Making friends was easy because I carried my skateboard with me. The hospitality and stoke that the locals had was next to none. I was housed for a week when I had no accommodation planned (thanks Indra and Sophie!). I felt love and passion, and want to contribute back to the island one day.
+
+I skateboarded more in Bali than anywhere else in my travels. A pleasant surprise to me, Bali is home to a burgeoning skate scene. Given the island's history of being a surf mecca, it only made sense that skateboarding would follow.
+
+Making friends was easy because I carried my skateboard with me. The hospitality and stoke that the locals had was next to none. I was housed for a week when I had no accommodation planned (thanks Indra and Sophie!). I traded some website consulting for the time they put me up. I felt love and passion, and want to contribute back to the island one day.
 
 A month flew by.  Before I knew it, my visa ran out.  So I hopped on a cheap flight to Singapore and ate for a week.
 
