@@ -46,7 +46,7 @@ The Nevis bungy jump beckoned, a New Zealand invention. At 134 meters, it is the
 
 Adventure called in Australia. I hopped the Tasman sea where I joined a friend and we surfed our way South from the Gold Coast to Melbourne. I learned to live like an ozzy, surfing and eating vegemite.
 
-At a yoga retreat in the hills of New South Wales I deepened my practice of mindfulness and compassion. Through the teachers and community I learned to trust my intuition.
+At a yoga retreat in the hills of New South Wales I deepened my practice of mindfulness and compassion. With the help of teachers and community I learned to trust my intuition.
 
 ![A Wallabee sighting.](/img/img_20180515_073613624.jpg)
 
@@ -60,21 +60,21 @@ The culture shock of being in Asia for the first time wore off quickly.  The peo
 
 I skateboarded more in Bali than anywhere else in my travels. A pleasant surprise to me, Bali is home to a burgeoning skate scene. Given the island's history of being a surf mecca, it only made sense that skateboarding would follow.  
 
-Making friends was easy because I carried my skateboard with me. The hospitality and stoke that the locals had was next to none. I was housed for a week when I had no accommodation planned (thanks Indra and Sophie!). I felt love and passion, and want to contribute back to the island one day.
+Making friends was easy because I carried my skateboard with me. The hospitality and stoke that the locals had was next to none. I was housed for a week when I had no accommodation planned (thanks Indra and Sophie!). I felt love and passion in this island paradise, and want to contribute back to the community one day.
 
 ![null](/img/img_20180703_012347_813.jpg)
 
-A month flew by.  Before I knew it, my visa ran out.  So I hopped on a cheap flight to Singapore and ate for a week.
+A month flew by.  Before I knew it, my visa ran out.  So I hopped on a cheap flight to Singapore and ate myself silly for a week.
 
 ## City of the Future and Chicken Rice
 
 Going from the developing country of Indonesia to the futuristic city-state of Singapore was another culture shock. I didn't know much about Singapore before arriving other than what [Anthony Bourdain told me](https://www.youtube.com/watch?v=ZtVKtq6XCoQ).
 
-The melting pot of Malay, Indian, Chinese, and others made for an amazing array of architecture, food, and people. There are giant skyscrapers bordering neighborhoods of British style buildings, all with food courts beneath them. You can get authentic Chinese, Malaysian, or Indian food all in the same food court, and order in English!
+The melting pot of Malaysian, Indian, Chinese, and others made for an amazing array of architecture, food, and people. There are giant skyscrapers bordering neighborhoods of British style buildings, all with food courts beneath them. You can get authentic Chinese, Malaysian, or Indian food all in the same food court, and order in English!
 
 ![Wonton noodle soup at a food court in Singapore.](/img/img_20180630_113704794.jpg)
 
-I stumbled upon the Singapore Art Book Fair because of an Instagram post from one of my favorite artists, [Mister Tucks](https://www.instagram.com/templeofskate/). I was lucky enough to meet him and talk about skateboarding and art in Singapore. There were so many people exhibiting small-release zines, books, and art. I met the founder of the magazine [Musotrees](http://www.musotrees.com/), a beautiful magazine about travel and destinations, who validated my decision to travel and added Malaysia to my list of places-to-go.
+I stumbled upon the Singapore Art Book Fair because of an Instagram post from one of my favorite artists, [Mister Tucks](https://www.instagram.com/templeofskate/). I was lucky enough to meet him and talk about skateboarding and art in Singapore. There were so many people exhibiting small-release zines, books, and art. I met the founder of the magazine [Musotrees](http://www.musotrees.com/), a beautiful collection about travel and destinations, who validated my decision to travel. I've added Malaysia to my list of places-to-go.
 
 ![Three towers by the water in Singapore.](/img/img_20180628_182207115_hdr.jpg)
 
@@ -82,7 +82,7 @@ After a week in the lion city I made my way to Japan.
 
 ## Coming Together in Japan
 
-When I arrived in Osaka, I felt at ease. I was used to stepping in to the unknown, at ease with being out of my element. Wandering the streets, I felt so much joy to be right where I was. After 4 months of traveling overseas, I had made it to my final destination. I had made my dream of travel a reality. The power of manifestation and taking small steps lead to this grand journey.
+When I arrived in Osaka, I felt at ease. I was used to stepping in to the unknown, comfortable with being out of my element. Wandering the streets, I felt so much joy to be right where I was. After 4 months of traveling overseas, I had made it to my final destination. I had made my dream of travel a reality. The power of manifestation and taking small steps lead to this grand journey.
 
 > I realize now that the reality of things is not something you convey to people but something you make. It is this that gives birth to meaning.
 >
@@ -100,7 +100,7 @@ Serendipity lead me to meet the 啜 (susuri, aka slurp) crew, who love skateboar
 
 ## Home.
 
-After a year of transience, I'm on American soil. I couldn't have imagined the experiences I had one year ago. I am more aware of myself, my needs, and what I can do with out. Living out of a backpack really put life in perspective for me.
+After a year of transience, I'm on American soil. One year ago I could not have imagined the experiences I would have. I am more aware of myself, my needs, and what I can do with out. Living out of a backpack really put life in perspective for me.
 
 Now, I'm ready to be productive. I moved my things from San Francisco to Seattle, on a new adventure of living and working in the Pacific North West. Although I enjoyed being a nomad, I am happy to set down some roots for the foreseeable future.
 
