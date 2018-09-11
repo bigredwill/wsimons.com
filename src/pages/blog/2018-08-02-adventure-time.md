@@ -82,12 +82,14 @@ After a week in the lion city I made my way to Japan.
 
 ## Coming Together in Japan
 
-When I arrived in Osaka, I felt at ease. I was used to stepping in to the unknown, at ease with being out of my element. Wandering the streets, I felt so much joy to be right where I was. After 4 months of traveling overseas, I had made it to my final destination. I had made my dream of travel a reality.
+When I arrived in Osaka, I felt at ease. I was used to stepping in to the unknown, at ease with being out of my element. Wandering the streets, I felt so much joy to be right where I was. After 4 months of traveling overseas, I had made it to my final destination. I had made my dream of travel a reality. The power of manifestation and taking small steps lead to this grand journey.
 
 > I realize now that the reality of things is not something you convey to people but something you make. It is this that gives birth to meaning.
 >
 > \- Haruki Murakami, The Elephant Vanishes
 
 Ramen, curry rice, omelette rice, katsu, soba, tempura, onigiri, sushi, hotdogs, burgers, coffee, beer. I connected with strangers over food and drink, a common language that doesn't require much talking at all to convey meaning.
+
+![The living dead is real, to live, does not mean that you're alive, so choose life, and fulfill your dreams.](/img/img_20180708_133420204_hdr.jpg)
 
 Serendipity lead me to meet the 啜 (susuri, aka slurp) crew, who loves skateboarding, ramen, and family. They invited me to a barbecue, we swam in the Kamo river in Kyoto, and visited a DIY skatepark in the hills of Namba.
