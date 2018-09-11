@@ -88,8 +88,10 @@ When I arrived in Osaka, I felt at ease. I was used to stepping in to the unknow
 >
 > \- Haruki Murakami, The Elephant Vanishes
 
-Ramen, curry rice, omelette rice, katsu, soba, tempura, onigiri, sushi, hotdogs, burgers, coffee, beer. I connected with strangers over food and drink, a common language that doesn't require much talking at all to convey meaning.
-
 ![The living dead is real, to live, does not mean that you're alive, so choose life, and fulfill your dreams.](/img/img_20180708_133420204_hdr.jpg)
 
-Serendipity lead me to meet the 啜 (susuri, aka slurp) crew, who loves skateboarding, ramen, and family. They invited me to a barbecue, we swam in the Kamo river in Kyoto, and visited a DIY skatepark in the hills of Namba.
+Ramen, curry rice, omelette rice, katsu, soba, tempura, onigiri, sushi, hotdogs, burgers, coffee, beer. I connected with strangers over food and drink, a common language that doesn't require much talking at all to convey meaning.
+
+Serendipity lead me to meet the 啜 (susuri, aka slurp) crew, who love skateboarding, ramen, and family. They invited me to a barbecue, we swam in the Kamo river in Kyoto, and visited a DIY skatepark in the hills of Namba.
+
+![Fish, tofu, and corn bbq under the bridge.](/img/img_20180715_165655151.jpg)
