@@ -58,7 +58,7 @@ Intuition and cold weather told me the next stop was Bali, Indonesia.
 
 The culture shock of being in Asia for the first time wore off quickly.  The people of Bali were friendly and fun. Time moved slower. Everything ran on island time.
 
-
+![Rice paddies between downpours.](/img/img_20180615_175456869_hdr.jpg)
 
 I skateboarded more in Bali than anywhere else in my travels. A pleasant surprise to me, Bali is home to a burgeoning skate scene. Given the island's history of being a surf mecca, it only made sense that skateboarding would follow.
 
