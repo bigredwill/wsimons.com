@@ -33,7 +33,10 @@ export const BlogPostTemplate = ({
         ) : null}
       </header>
       <div className="fn">
-        <PostContent className="lh-copy measure-wide center" content={content} />
+        <PostContent
+          className="lh-copy measure-wide center"
+          content={content}
+        />
       </div>
     </article>
   )

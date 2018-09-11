@@ -8,7 +8,7 @@ class TagRoute extends React.Component {
   render() {
     const posts = this.props.data.allMarkdownRemark.edges
     const postLinks = posts.map(post => (
-      <article key={post.node.fields.slug}  >
+      <article key={post.node.fields.slug}>
         <li className="ph0 dib">
           <PostListItem post={post.node} />
         </li>

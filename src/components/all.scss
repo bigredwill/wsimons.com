@@ -1,11 +1,12 @@
 @import "tachyons-sass/tachyons.scss";
 
-h1, h2, h3, h4, h5, h6 {
-  @extend .sans-serif, .mid-gray, .lh-title;
-}
-
 html {
   @extend .sans-serif;
+  font-size: 18px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  @extend .sans-serif, .mid-gray, .lh-title;
 }
 
 .highlight {
@@ -14,7 +15,6 @@ html {
 
 a {
   @extend .link, .underline-hover;
-  // link color
   color: #ff3030;
 }
 
@@ -36,7 +36,6 @@ pre {
   overflow: scroll;
 }
 
-// Nav link color
-.green-blue {
+.nav-blue {
   color: #3F51B5;
 }

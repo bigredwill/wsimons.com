@@ -16,7 +16,7 @@ const routes = [
   },
 ]
 
-const linkStyles = 'link dim green-blue f5 f4-m f4-l dib ml3-ns ml2 v-btm'
+const linkStyles = 'link dim nav-blue f5 f4-m f4-l dib mr2 v-btm'
 // function to determine if link is active or deeper routes
 const isPartiallyActive = ({ isPartiallyCurrent, location, href }) => {
   // debugger;
@@ -27,22 +27,25 @@ const isPartiallyActive = ({ isPartiallyCurrent, location, href }) => {
 }
 
 const Navbar = ({ route = '/' }) => (
-  <nav className="measure-wide center pb3 pt4 sans-serif">
-    <div className="tracked mid-gray dib f5 f4-m f4-l v-btm">Will Simons</div>
-    {routes.map(obj => {
-      return (
-        <Link
-          getProps={isPartiallyActive}
-          className={linkStyles}
-          to={obj.href}
-          title={obj.title}
-          key={obj.title}
-        >
-          {obj.title}
-        </Link>
-      )
-    })}
-    
+  <nav className="measure-wide center pt4 sans-serif">
+    <div className="tracked mid-gray dib f5 f4-m f4-l v-btm mr2 mb2-s">
+      Will Simons
+    </div>
+    <div className="dib mt3-s">
+      {routes.map(obj => {
+        return (
+          <Link
+            getProps={isPartiallyActive}
+            className={linkStyles}
+            to={obj.href}
+            title={obj.title}
+            key={obj.title}
+          >
+            {obj.title}
+          </Link>
+        )
+      })}
+    </div>
   </nav>
 )
 
