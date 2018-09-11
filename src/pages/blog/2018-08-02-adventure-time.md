@@ -76,6 +76,8 @@ The melting pot of Malay, Indian, Chinese, and others made for an amazing array 
 
 I stumbled upon the Singapore Art Book Fair because of an Instagram post from one of my favorite artists, [Mister Tucks](https://www.instagram.com/templeofskate/). I was lucky enough to meet him and talk about skateboarding and art in Singapore. There were so many people exhibiting small-release zines, books, and art. I met the founder of the magazine [Musotrees](http://www.musotrees.com/), a beautiful magazine about travel and destinations, who validated my decision to travel and added Malaysia to my list of places-to-go.
 
+![Three towers by the water in Singapore.](/img/img_20180628_182207115_hdr.jpg)
+
 After a week in the lion city I made my way to Japan.
 
 ## Coming Together in Japan
