@@ -56,21 +56,23 @@ Intuition and cold weather told me the next stop was Bali, Indonesia.
 
 The culture shock of being in Asia for the first time wore off quickly.  The people of Bali were friendly and fun. Time moved slower. Everything ran on island time.
 
-![](/img/img_20180617_180459138_hdr.jpg)
+![null](/img/img_20180617_180459138_hdr.jpg)
 
 I skateboarded more in Bali than anywhere else in my travels. A pleasant surprise to me, Bali is home to a burgeoning skate scene. Given the island's history of being a surf mecca, it only made sense that skateboarding would follow.  
 
 Making friends was easy because I carried my skateboard with me. The hospitality and stoke that the locals had was next to none. I was housed for a week when I had no accommodation planned (thanks Indra and Sophie!). I felt love and passion, and want to contribute back to the island one day.
 
-![](/img/img_20180703_012347_813.jpg)
+![null](/img/img_20180703_012347_813.jpg)
 
 A month flew by.  Before I knew it, my visa ran out.  So I hopped on a cheap flight to Singapore and ate for a week.
 
 ## City of the Future and Chicken Rice
 
-Going from the developing country of Indonesia to the futuristic city-state of Singapore was another culture shock. I didn't know much about Singapore before arriving other than one of the national languages is English and the street food is amazing. 
+Going from the developing country of Indonesia to the futuristic city-state of Singapore was another culture shock. I didn't know much about Singapore before arriving other than what [Anthony Bourdain told me](https://www.youtube.com/watch?v=ZtVKtq6XCoQ).
 
-The melting pot of Malay, Indian, Chinese, and others made for an amazing array of architecture, food, and people. There are giant skyscrapers bordering neighborhoods of British style buildings, all with food courts beneath them. You could get authentic Chinese, Malaysian, or Indian food all in the same food court, and order in English!
+The melting pot of Malay, Indian, Chinese, and others made for an amazing array of architecture, food, and people. There are giant skyscrapers bordering neighborhoods of British style buildings, all with food courts beneath them. You can get authentic Chinese, Malaysian, or Indian food all in the same food court, and order in English!
+
+![Wonton noodle soup at a food court in Singapore.](/img/img_20180630_113704794.jpg)
 
 I stumbled upon the Singapore Art Book Fair because of an Instagram post from one of my favorite artists, [Mister Tucks](https://www.instagram.com/templeofskate/). I was lucky enough to meet him and talk about skateboarding and art in Singapore. There were so many people exhibiting small-release zines, books, and art. I met the founder of the magazine [Musotrees](http://www.musotrees.com/), a beautiful magazine about travel and destinations, who validated my decision to travel and added Malaysia to my list of places-to-go.
 
