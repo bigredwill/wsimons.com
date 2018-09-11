@@ -64,7 +64,7 @@ I skateboarded more in Bali than anywhere else in my travels. A pleasant surpris
 
 Making friends was easy because I carried my skateboard with me. The hospitality and stoke that the locals had was next to none. I was housed for a week when I had no accommodation planned (thanks Indra and Sophie!). I traded some website consulting for the time they put me up. I felt love and passion, and want to contribute back to the island one day.
 
-
+![Me skateboarding over fire in Bali.](/img/img_20180703_012347_813.jpg)
 
 A month flew by.  Before I knew it, my visa ran out.  So I hopped on a cheap flight to Singapore and ate for a week.
 
