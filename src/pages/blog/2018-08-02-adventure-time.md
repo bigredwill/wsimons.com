@@ -95,3 +95,15 @@ Ramen, curry rice, omelette rice, katsu, soba, tempura, onigiri, sushi, hotdogs,
 Serendipity lead me to meet the 啜 (susuri, aka slurp) crew, who love skateboarding, ramen, and family. They invited me to a barbecue, we swam in the Kamo river in Kyoto, and visited a DIY skatepark in the hills of Namba.
 
 ![Fish, tofu, and corn bbq under the bridge.](/img/img_20180715_165655151.jpg)
+
+## 
+
+## Home.
+
+After a year of transience, I'm on American soil. I couldn't have imagined the experiences I had one year ago. I am more aware of myself, my needs, and what I can do with out. Living out of a backpack really put life in perspective for me.
+
+Now, I'm ready to be productive. I moved my things from San Francisco to Seattle, on a new adventure of living and working in the Pacific North West. Although I enjoyed being a nomad, I am happy to set down some roots for the foreseeable future.
+
+Thanks for reading.
+
+<3 Will
