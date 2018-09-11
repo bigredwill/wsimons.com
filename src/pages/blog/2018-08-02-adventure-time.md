@@ -82,12 +82,28 @@ After a week in the lion city I made my way to Japan.
 
 ## Coming Together in Japan
 
-When I arrived in Osaka, I felt at ease. I was used to stepping in to the unknown, at ease with being out of my element. Wandering the streets, I felt so much joy to be right where I was. After 4 months of traveling overseas, I had made it to my final destination. I had made my dream of travel a reality.
+When I arrived in Osaka, I felt at ease. I was used to stepping in to the unknown, at ease with being out of my element. Wandering the streets, I felt so much joy to be right where I was. After 4 months of traveling overseas, I had made it to my final destination. I had made my dream of travel a reality. The power of manifestation and taking small steps lead to this grand journey.
 
 > I realize now that the reality of things is not something you convey to people but something you make. It is this that gives birth to meaning.
 >
 > \- Haruki Murakami, The Elephant Vanishes
 
+![The living dead is real, to live, does not mean that you're alive, so choose life, and fulfill your dreams.](/img/img_20180708_133420204_hdr.jpg)
+
 Ramen, curry rice, omelette rice, katsu, soba, tempura, onigiri, sushi, hotdogs, burgers, coffee, beer. I connected with strangers over food and drink, a common language that doesn't require much talking at all to convey meaning.
 
-Serendipity lead me to meet the 啜 (susuri, aka slurp) crew, who loves skateboarding, ramen, and family. They invited me to a barbecue, we swam in the Kamo river in Kyoto, and visited a DIY skatepark in the hills of Namba.
+Serendipity lead me to meet the 啜 (susuri, aka slurp) crew, who love skateboarding, ramen, and family. They invited me to a barbecue, we swam in the Kamo river in Kyoto, and visited a DIY skatepark in the hills of Namba.
+
+![Fish, tofu, and corn bbq under the bridge.](/img/img_20180715_165655151.jpg)
+
+## 
+
+## Home.
+
+After a year of transience, I'm on American soil. I couldn't have imagined the experiences I had one year ago. I am more aware of myself, my needs, and what I can do with out. Living out of a backpack really put life in perspective for me.
+
+Now, I'm ready to be productive. I moved my things from San Francisco to Seattle, on a new adventure of living and working in the Pacific North West. Although I enjoyed being a nomad, I am happy to set down some roots for the foreseeable future.
+
+Thanks for reading.
+
+<3 Will
