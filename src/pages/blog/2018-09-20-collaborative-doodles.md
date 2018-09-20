@@ -27,4 +27,5 @@ I gained experience using Foreman, Heroku, a ton of Gems, CoffeeScript, SCSS, an
 [Check out the code on Github](https://github.com/bigredwill/webBoard)
 or 
 [give the live version a shot!](https://web-board-bruteforce.herokuapp.com/)
-![My doodle.](/assets/webBoard/sketch1.png)
+
+![Drawing made with web board.](/img/sketch1.png)
