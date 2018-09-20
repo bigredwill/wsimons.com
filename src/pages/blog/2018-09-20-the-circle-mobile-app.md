@@ -16,6 +16,7 @@ The production encouraged attendees to explore the theater space and interact wi
 
 Attendees of the play used the app to experience their own unique story as they gained participation points and progressed through the night. We tracked their location and sent them push notifications based on their point ranking amongst other users, telling them what their next destination was.
 
+![The actors playing Eamon Bailey and Mae Holland on the main stage.](/img/circle1.jpg)
 
 _The actors playing Eamon Bailey and Mae Holland on the main stage._
 
