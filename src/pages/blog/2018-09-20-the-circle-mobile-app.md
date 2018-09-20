@@ -36,7 +36,6 @@ Though the software engineering effort that went into building and supporting th
 
 ![Co-creator Henry and other attendees visiting Stanton in her office.](/img/circle4.jpg)
 
-
 _Co-creator Henry and other attendees visiting Stanton in her office._
 
 #### Tracking users with iBeacons
@@ -47,10 +46,10 @@ Organizing and distributing iBeacons was difficult given that we were working wi
 
 #### Database Administration with MongoDB
 
-We made some naive mistakes and assumptions at the speed of MongoDB on a small, cheap Linux server.  The NoSQL approach was the best choice because it allowed flexibility to iterate on our implementation quickly.  I gained some great insight in to creating document (NoSql version of a table) schemas and when nesting data was appropriate.  I tried to get fancy and use the aggregation pipeline, but it turned out that I was fitting a solution to a problem we didn't have.  A fetch statement turned out to be quicker and more simple than the aggregation.  Takeaway: KISS (keep it simple, stupid.)
+We made some naive mistakes and assumptions at the speed of MongoDB on a small, cheap Linux server.  The NoSQL approach was the best choice because it allowed flexibility to iterate on our implementation quickly.  I gained some great insight in to creating document (NoSql version of a table) schemas and when nesting data was appropriate.  I tried to use the aggregation pipeline for calculating metrics from data, but it turned out that I was looking for a solution to a problem we didn't have.  A fetch statement turned out to be quicker and more simple than the aggregation.  Takeaway: KISS (keep it simple, stupid.)
 
 ### Conclusion
 
 This was the largest single project I've worked on, both in scale, longevity, and responsibility.  I had a great time working on it, and learned a lot.  As a student, it gave me courage to tackle larger problems.  As a software engineer, I learned to talk to a project manager and make arguments for and against different ideas.  I also got to touch many different technologies and piece them together into a tangible deliverable.  It feels so great to finish and polish a legitimate product and see people interact with it.
 
-Working with Henry is always great.  We have developed a repertoire and can work efficiently at breaking down problems into easily consumable steps.  Sometimes I get too obsessed with designing before jumping into a problem. That's where Henry excels and has shown me how to just do it.
+Working with Henry is always great.  We have developed a repertoire and can work efficiently at breaking down problems into easily consumable steps.  We have teamed up at multiple hackathons including the Global Game Jam and the Leia 3D hackathon.
