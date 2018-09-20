@@ -30,6 +30,8 @@ Building a mobile app is no small feat, and building two mobile apps is a huge u
 
 Oh, and did I mention _hot code push_?!  It allowed us to make small changes to the app and push them directly to their phones, bypassing the traditional code review process.  This came in handy when we had to make performance tuning changes between performances.
 
+![User poll with live updates.](/img/circle3.jpg)
+
 #### Submitting an app to the App Store
 
 Though the software engineering effort that went into building and supporting the app was huge, getting the app through the Apple app review process was immense.  Because Apple takes quality control seriously, they don't just let anybody submit an app to the store.  This was my first time submitting an application and I definitely underestimated the amount of documentation and details that were needed before an app would be OK'd.  The hardest part was the least technical; I had to make a 30 second video and gathering around 30 screen shots to display in the app store.
