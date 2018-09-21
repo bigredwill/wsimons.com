@@ -11,10 +11,11 @@ tags:
   - SJSU
 ---
 I love to doodle.
-On Caltrain I listen to music and sketch out thoughts, formulating them in to images or words.
+On the Caltrain between San Jose and San Francisco I listen to music and sketch out thoughts.
 
 I'm currently taking a Programming Paradigms class at San Jose State. The class is centered around
 learning about the history and types of programming languages that exist, and why things are as they are.
+
 We've learned about rise of Object Oriented programming, the importance of abstraction, encapsulation, and code efficiency.
 We've talked about functional programming, and implemented a sorting algorithm in Racket. It has been incredibly enlightening to learn to think in different ways about the same coding problems.
 
@@ -22,7 +23,7 @@ Back to doodling.  For this class' term project, we split in to teams to teach t
 
 This was my first foray into the land of Rails; I enjoyed it immensely. Once I got past figuring out how everything worked together, it was a breeze getting everything working. Features I want to add are drawing deletion, drawing history view, and a drawing compilation page.
 
-I gained experience using Foreman, Heroku, a ton of Gems, CoffeeScript, SCSS, and jQuery.
+I gained experience using Foreman, Heroku, a ton of Gems, CoffeeScript, SCSS, jQuery, HTML canvas, and Postgres.
 
 [Check out the code on Github](https://github.com/bigredwill/webBoard)
 or 
