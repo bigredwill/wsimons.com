@@ -1,7 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
-import Helmet from 'react-helmet'
+import Helmet from '../components/Helmet'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
@@ -25,7 +25,12 @@ const AboutPage = ({ data }) => {
 
   return (
     <Layout>
-      <Helmet title={`Will Simons | ${post.frontmatter.title}`} />
+      <Helmet
+        title={post.frontmatter.title}
+        slug={post.fields.slug}
+        description={post.frontmatter.excerpt}
+        thumbnail={post.frontmatter.thumbnail}
+      />
       <AboutPageTemplate contentComponent={HTMLContent} content={post.html} />
     </Layout>
   )
@@ -40,9 +45,14 @@ export default AboutPage
 export const aboutPageQuery = graphql`
   query AboutPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
+      fields {
+        slug
+      }
       html
       frontmatter {
         title
+        excerpt
+        thumbnail
       }
     }
   }

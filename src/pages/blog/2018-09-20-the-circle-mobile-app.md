@@ -9,6 +9,7 @@ tags:
   - iOS
   - Android
   - SJSU
+thumbnail: '/img/nz_mtn.jpg'
 ---
 ## Dave Eggers' best selling novel, [The Circle](https://en.wikipedia.org/wiki/The_Circle_(Eggers_novel)), was brought to life by the San Jose State University Theater department.
 

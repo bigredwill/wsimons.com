@@ -1,6 +1,6 @@
 import React from 'react'
-import Helmet from 'react-helmet'
 import { Link, graphql } from 'gatsby'
+import Helmet from '../components/Helmet'
 import Layout from '../components/Layout'
 import PostListItem from '../components/PostListItem'
 
@@ -20,11 +20,16 @@ class TagRoute extends React.Component {
     const tagHeader = `${totalCount} post${
       totalCount === 1 ? '' : 's'
     } tagged with #${tag}`
+    const slug = this.props.pageContext.tagPath
 
     return (
       <Layout>
         <section className="measure-wide center lh-copy">
-          <Helmet title={`${title} | ${tag}`} />
+          <Helmet
+            title={`${title} • ${tag}`}
+            description={`Will Simons is writing about ${tag}`}
+            slug={slug}
+          />
           <article className="list f6 ph0 mt3 mb0">
             <h1 className="f3">{tagHeader}</h1>
             <ul className="taglist ph0">{postLinks}</ul>

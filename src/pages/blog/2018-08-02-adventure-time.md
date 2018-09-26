@@ -7,6 +7,7 @@ tags:
   - travel
   - life
   - fun
+thumbnail: '/img/nz_mtn.jpg'
 ---
 This post marks the end of a year of stepping outside of my comfort zone. I travelled across the world to learn how others live and to use intuition to discover. One year ago today, I left an office in search of experiences outside of the digital realm.
 

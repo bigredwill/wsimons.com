@@ -1,8 +1,8 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { kebabCase } from 'lodash'
-import Helmet from 'react-helmet'
 import { graphql, Link } from 'gatsby'
+import Helmet from '../components/Helmet'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
@@ -55,7 +55,12 @@ const BlogPost = ({ data }) => {
 
   return (
     <Layout>
-      <Helmet title={`${post.frontmatter.title} | Blog`} />
+      <Helmet 
+        title={`Will Simons • ${post.frontmatter.title}`}
+        description={post.frontmatter.excerpt}
+        slug={post.fields.slug}
+        thumbnail={post.frontmatter.thumbnail}
+      />
       <BlogPostTemplate
         content={post.html}
         contentComponent={HTMLContent}
@@ -81,11 +86,15 @@ export const pageQuery = graphql`
     markdownRemark(id: { eq: $id }) {
       id
       html
+      fields {
+        slug
+      }
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
         title
         excerpt
         tags
+        thumbnail
       }
     }
   }

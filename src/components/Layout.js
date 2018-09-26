@@ -16,7 +16,12 @@ const TemplateWrapper = ({ children }) => (
         },
         { name: 'keywords', content: 'Javascript' },
       ]}
-    />
+    >
+      <link rel="shortcut icon" href="/favicon.png"/>
+      <meta property="og:type" content="website" />
+      <meta property="og:locale" content="en_US" />
+      <meta property="og:title" content="Will Simons" />
+    </Helmet>
 
     <div
       style={{

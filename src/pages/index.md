@@ -1,6 +1,7 @@
 ---
 templateKey: about-page
 title: ☕
+thumbnail: '/img/nz_mtn.jpg'
 ---
 # I'm a web developer and programming generalist, among other things.
 

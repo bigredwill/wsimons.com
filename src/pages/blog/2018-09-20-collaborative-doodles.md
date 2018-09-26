@@ -9,6 +9,7 @@ tags:
   - Heroku
   - jQuery
   - SJSU
+thumbnail: '/img/nz_mtn.jpg'
 ---
 I love to doodle.
 On the Caltrain between San Jose and San Francisco I listen to music and sketch out thoughts.

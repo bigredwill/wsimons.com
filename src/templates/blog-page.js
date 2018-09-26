@@ -1,7 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
-import Helmet from 'react-helmet'
+import Helmet from '../components/Helmet'
 import Layout from '../components/Layout'
 import { HTMLContent } from '../components/Content'
 import PostListItem from '../components/PostListItem'
@@ -9,12 +9,17 @@ import PostListItem from '../components/PostListItem'
 export default class BlogPage extends React.Component {
   render() {
     const { data } = this.props
-    const { html, frontmatter } = data.markdownRemark
+    const { html, frontmatter, fields: { slug } } = data.markdownRemark
     const { edges: posts } = data.allMarkdownRemark
     const title = frontmatter.title || 'Writing'
     return (
       <Layout>
-        <Helmet title={`Will Simons | ${title}`} />
+        <Helmet
+          title={title}
+          slug={slug}
+          description={frontmatter.excerpt}
+          thumbnail={frontmatter.thumbnail}
+        />
         <div className="measure-wide center">
           <HTMLContent className="lh-copy" content={html} />
           {posts.map(({ node: post }) => (
@@ -38,6 +43,9 @@ export const pageQuery = graphql`
   query BlogPageQuery($id: String!) {
     markdownRemark(id: { eq: $id }) {
       html
+      fields {
+        slug
+      }
       frontmatter {
         title
       }
@@ -58,6 +66,7 @@ export const pageQuery = graphql`
             excerpt
             templateKey
             date(formatString: "MMMM DD, YYYY")
+            thumbnail
           }
         }
       }

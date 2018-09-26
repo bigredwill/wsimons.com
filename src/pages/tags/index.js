@@ -1,6 +1,6 @@
 import React from 'react'
 import { kebabCase } from 'lodash'
-import Helmet from 'react-helmet'
+import Helmet from '../../components/Helmet'
 import { Link, graphql } from 'gatsby'
 import Layout from '../../components/Layout'
 
@@ -14,7 +14,7 @@ const TagsPage = ({
 }) => (
   <Layout>
     <article className="measure-wide center">
-      <Helmet title={`Tags | ${title}`} />
+      <Helmet title={`Tags • ${title}`} />
       <div>
         <h1 className="f3 v-mid mr3">Tags</h1>
       </div>

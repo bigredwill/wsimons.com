@@ -9,6 +9,7 @@ tags:
   - react
   - update
   - life
+thumbnail: '/img/nz_mtn.jpg'
 ---
 ## A new website for new things and why I built a new site, again.
 

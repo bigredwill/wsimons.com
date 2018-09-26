@@ -19,6 +19,7 @@ collections:
       - {label: "Excerpt", name: "excerpt", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Thumbnail", name: "thumbnail", widget: "image", default: "/img/nz_mtn.jpg"}
 
   - name: "pages"
     label: "Pages"
@@ -30,6 +31,8 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Excerpt", name: "excerpt", widget: "text"}
+          - {label: "Thumbnail", name: "thumbnail", widget: "image", default: "/img/nz_mtn.jpg"}
       - file: "src/pages/now.md"
         label: "Now"
         name: "now"
@@ -37,3 +40,5 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Excerpt", name: "excerpt", widget: "text"}
+          - {label: "Thumbnail", name: "thumbnail", widget: "image", default: "/img/nz_mtn.jpg"}
