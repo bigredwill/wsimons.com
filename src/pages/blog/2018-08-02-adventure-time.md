@@ -2,12 +2,12 @@
 templateKey: blog-post
 title: Adventure Time
 date: 2018-09-02T15:04:10.000Z
-excerpt: 'A gap year, an adventure, and hard reset.'
+excerpt: 'A gap year, an adventure, and a fresh start.'
 tags:
   - travel
   - life
   - fun
-thumbnail: '/img/nz_mtn.jpg'
+thumbnail: /img/img_6619.jpg
 ---
 This post marks the end of a year of stepping outside of my comfort zone. I travelled across the world to learn how others live and to use intuition to discover. One year ago today, I left an office in search of experiences outside of the digital realm.
 
