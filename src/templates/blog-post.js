@@ -55,8 +55,8 @@ const BlogPost = ({ data }) => {
 
   return (
     <Layout>
-      <Helmet 
-        title={`Will Simons • ${post.frontmatter.title}`}
+      <Helmet
+        title={post.frontmatter.title}
         description={post.frontmatter.excerpt}
         slug={post.fields.slug}
         thumbnail={post.frontmatter.thumbnail}

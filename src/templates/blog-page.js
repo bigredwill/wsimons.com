@@ -9,7 +9,11 @@ import PostListItem from '../components/PostListItem'
 export default class BlogPage extends React.Component {
   render() {
     const { data } = this.props
-    const { html, frontmatter, fields: { slug } } = data.markdownRemark
+    const {
+      html,
+      frontmatter,
+      fields: { slug },
+    } = data.markdownRemark
     const { edges: posts } = data.allMarkdownRemark
     const title = frontmatter.title || 'Writing'
     return (
