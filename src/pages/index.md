@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: Home
+title: ☕
 ---
 # I'm a web developer and programming generalist, among other things.
 
