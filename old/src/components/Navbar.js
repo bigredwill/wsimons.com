@@ -31,7 +31,11 @@ const Navbar = ({ route = '/' }) => (
     <div className="tracked mid-gray dib f5 f4-m f4-l v-btm mr2 mb2-s">
       Will Simons
     </div>
-    <div className="dib mt3-s ml-auto">
+    <div style={{
+      display: grid,
+      gridTemplateColumns: 'repeat(3, 1fr)',
+      gap: 10,
+    }}>
       {routes.map(obj => {
         return (
           <Link
