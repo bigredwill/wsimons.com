@@ -6,10 +6,10 @@ const routes = [
     title: "About Me",
     href: "/",
   },
-  {
-    title: "Writing",
-    href: "/blog",
-  },
+  // {
+  //   title: "Writing",
+  //   href: "/blog",
+  // },
   {
     title: "Now",
     href: "/now",
@@ -40,7 +40,7 @@ const Navbar = ({ route = "/" }) => (
             href={obj.href}
             key={obj.title}
           >
-            <span
+            <a
               style={{
                 color: "#3f51b5",
                 textAlign: "center",
@@ -49,7 +49,7 @@ const Navbar = ({ route = "/" }) => (
               }}
             >
               {obj.title}
-            </span>
+            </a>
           </Link>
         );
       })}
